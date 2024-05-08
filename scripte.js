@@ -18,3 +18,10 @@ let colors = [
 //    And start from zero
    btnkhasho.addEventListener("click", changecolors);
    count = 0;
+
+    //Color change function
+  function changecolors() {
+    body.style.backgroundColor = colors[count];
+    count ++
+  }
+  
