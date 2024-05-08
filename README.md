@@ -1,6 +1,6 @@
 #  When you press the khasho button, something cool happens on the page
 
-! [ Alt text](photo/881537.jpg)
+! (photo/881537.jpg)
 
 
 haghighatan chizi be zehnam naresid ke benevisam
