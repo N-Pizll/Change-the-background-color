@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+#btnkhasho {
+    width: 100px;
+    height: 80px;
+    color: purple;
+    border-radius: 11%;
+}
