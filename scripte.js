@@ -13,3 +13,8 @@ let colors = [
     "pink",
     "orange",
   ];
+
+   //A Lannister event to make the changes we want when we click on the button
+//    And start from zero
+   btnkhasho.addEventListener("click", changecolors);
+   count = 0;
